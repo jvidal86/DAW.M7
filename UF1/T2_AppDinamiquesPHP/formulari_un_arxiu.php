@@ -25,7 +25,7 @@
 
     ?>
     <form method="POST"
-          action= ?>" >
+          action=  "<?php echo htmlspecialchars($_SERVER['PHP_SELF']);?>" >
 
         <label for="usuari">Usuari</label>
         <input name="usuari" type="text" id="usuari"
