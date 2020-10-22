@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="Inicialització de directoris UF1" />
+    <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="Inicialització de directoris UF1">
+      <change afterPath="$PROJECT_DIR$/UF1/T1_PHP/T1_S1_Intro_PHP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF1/T0_Intro/T0_S1_Intro_Desenvolupament_web.md" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T0_Intro/T0_S1_Intro_Desenvolupament_web.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +43,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -55,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603372032688</updated>
-      <workItem from="1603372035748" duration="437000" />
+      <workItem from="1603372035748" duration="853000" />
+      <workItem from="1603372918197" duration="943000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialització de directoris UF1">
       <created>1603372188733</created>
@@ -64,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603372188733</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Inicialització de directoris UF1">
+      <created>1603372579825</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603372579825</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +96,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicialització de directoris UF1" />
@@ -93,9 +107,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="963" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603372245129" />
-    <state x="551" y="119" key="SettingsEditor" timestamp="1603372479656">
+    <state x="551" y="119" key="SettingsEditor" timestamp="1603372710998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="119" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603372479656" />
+    <state x="551" y="119" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603372710998" />
+    <state x="1047" y="179" key="Vcs.Push.Dialog.v2" timestamp="1603372588201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1047" y="179" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603372588201" />
   </component>
 </project>
