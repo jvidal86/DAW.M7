@@ -26,8 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="Inicialització de directoris UF1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF1/T1_PHP/T1_S5_Funcions.md" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T1_PHP/T1_S5_Funcions.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +78,7 @@
       <workItem from="1603372035748" duration="853000" />
       <workItem from="1603372918197" duration="1149000" />
       <workItem from="1603380838418" duration="515000" />
+      <workItem from="1603452910435" duration="1105000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialització de directoris UF1">
       <created>1603372188733</created>
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603381087535</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Noves seccions a T1">
+      <created>1603453131266</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603453131266</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +151,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicialització de directoris UF1" />
     <MESSAGE value="Uniciar UF1 Formularis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uniciar UF1 Formularis" />
+    <MESSAGE value="Noves seccions a T1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Noves seccions a T1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="963" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603372245129">
@@ -155,9 +163,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="551" y="119" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603381355180" />
-    <state x="1047" y="179" key="Vcs.Push.Dialog.v2" timestamp="1603381089567">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="640" y="166" key="Vcs.Push.Dialog.v2" timestamp="1603453135324">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="1047" y="179" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603381089567" />
+    <state x="640" y="166" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1603453135324" />
   </component>
 </project>
