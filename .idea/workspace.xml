@@ -26,7 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="Inicialització de directoris UF1">
-      <change beforePath="$PROJECT_DIR$/UF1/T1_PHP/T1_S5_Funcions.md" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T1_PHP/T1_S5_Funcions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UF1/T1_PHP/T1_S3_Funcions_Internes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UF1/T1_PHP/T1_S3_funcions_sobre_variables.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UF1/T1_PHP/T1_S6_Reutilitzacio_Codi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +60,16 @@
       <recent name="C:\Users\super\PhpstormProjects\DAW.M7\UF1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.T1_S3_funcions_sobre_variables.php">
     <configuration name="formulari_un_arxiu.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63344/DAW.M7/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="T1_S3_funcions_sobre_variables.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/UF1/T1_PHP/T1_S3_funcions_sobre_variables.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.T1_S3_funcions_sobre_variables.php" />
         <item itemvalue="JavaScript Debug.formulari_un_arxiu.php" />
       </list>
     </recent_temporary>
@@ -78,7 +85,6 @@
       <workItem from="1603372035748" duration="853000" />
       <workItem from="1603372918197" duration="1149000" />
       <workItem from="1603380838418" duration="515000" />
-      <workItem from="1603452910435" duration="1105000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialització de directoris UF1">
       <created>1603372188733</created>
@@ -108,14 +114,7 @@
       <option name="project" value="LOCAL" />
       <updated>1603381087535</updated>
     </task>
-    <task id="LOCAL-00005" summary="Noves seccions a T1">
-      <created>1603453131266</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1603453131266</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,22 +150,44 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicialització de directoris UF1" />
     <MESSAGE value="Uniciar UF1 Formularis" />
-    <MESSAGE value="Noves seccions a T1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Noves seccions a T1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uniciar UF1 Formularis" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="685" y="256" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603463096083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="256" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603463096083" />
     <state x="963" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603372245129">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="963" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603372245129" />
-    <state x="551" y="119" key="SettingsEditor" timestamp="1603381355180">
+    <state width="1486" height="272" key="GridCell.Tab.0.bottom" timestamp="1603463966416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="119" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603381355180" />
-    <state x="640" y="166" key="Vcs.Push.Dialog.v2" timestamp="1603453135324">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state width="1486" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603463966416" />
+    <state width="1486" height="272" key="GridCell.Tab.0.center" timestamp="1603463966415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1486" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603463966415" />
+    <state width="1486" height="272" key="GridCell.Tab.0.left" timestamp="1603463966415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1486" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603463966415" />
+    <state width="1486" height="272" key="GridCell.Tab.0.right" timestamp="1603463966416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1486" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603463966416" />
+    <state x="982" y="442" key="NewPhpFileDialog" timestamp="1603463024817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="982" y="442" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603463024817" />
+    <state x="551" y="119" key="SettingsEditor" timestamp="1603463073331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="119" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603463073331" />
+    <state x="1047" y="179" key="Vcs.Push.Dialog.v2" timestamp="1603381089567">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1047" y="179" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603381089567" />
-    <state x="640" y="166" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1603453135324" />
   </component>
 </project>
