@@ -1,0 +1,76 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"BRANCH:main\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </select>\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"f97cab90-fcb4-4c4c-b7bf-b83c5d0db905\" name=\"Default Changelist\" comment=\"Inicialització de directoris UF1\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"PhpWorkspaceProjectConfiguration\" interpreter_name=\"PHP\" />\r\n  <component name=\"ProjectId\" id=\"1jEb7is3bbhirGejtt6wcJkvbdb\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"full.screen.before.presentation.mode\" value=\"true\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"reference.webide.settings.project.settings.php\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\super\\PhpstormProjects\\DAW.M7\\UF1\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"formulari_un_arxiu.php\" type=\"JavascriptDebugType\" temporary=\"true\" nameIsGenerated=\"true\" uri=\"http://localhost:63344/DAW.M7/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php\" useBuiltInWebServerPort=\"true\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"JavaScript Debug.formulari_un_arxiu.php\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"f97cab90-fcb4-4c4c-b7bf-b83c5d0db905\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1603372032688</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1603372032688</updated>\r\n      <workItem from=\"1603372035748\" duration=\"853000\" />\r\n      <workItem from=\"1603372918197\" duration=\"1149000\" />\r\n      <workItem from=\"1603380838418\" duration=\"515000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Inicialització de directoris UF1\">\r\n      <created>1603372188733</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1603372188733</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Inicialització de directoris UF1\">\r\n      <created>1603372579825</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1603372579825</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Inicialització de directoris UF1\">\r\n      <created>1603380653738</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1603380653738</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Uniciar UF1 Formularis\">\r\n      <created>1603381087535</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1603381087535</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"UnknownFeatures\">\r\n    <option featureType=\"com.intellij.fileTypeFactory\" implementationName=\"*.md\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"main\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Inicialització de directoris UF1\" />\r\n    <MESSAGE value=\"Uniciar UF1 Formularis\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Uniciar UF1 Formularis\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"963\" y=\"271\" key=\"#com.intellij.fileTypes.FileTypeChooser\" timestamp=\"1603372245129\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"963\" y=\"271\" key=\"#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1603372245129\" />\r\n    <state x=\"551\" y=\"119\" key=\"SettingsEditor\" timestamp=\"1603381355180\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"551\" y=\"119\" key=\"SettingsEditor/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1603381355180\" />\r\n    <state x=\"1047\" y=\"179\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1603381089567\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"1047\" y=\"179\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1603381089567\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision fec7a6610f928de1a01077eb3459b89481af196d)
++++ .idea/workspace.xml	(date 1603381621843)
+@@ -25,10 +25,7 @@
+     </select>
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="Inicialització de directoris UF1">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php" afterDir="false" />
+-    </list>
++    <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="Inicialització de directoris UF1" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -78,7 +75,7 @@
+       <updated>1603372032688</updated>
+       <workItem from="1603372035748" duration="853000" />
+       <workItem from="1603372918197" duration="1149000" />
+-      <workItem from="1603380838418" duration="515000" />
++      <workItem from="1603380838418" duration="781000" />
+     </task>
+     <task id="LOCAL-00001" summary="Inicialització de directoris UF1">
+       <created>1603372188733</created>
+@@ -108,7 +105,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1603381087535</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="Uniciar UF1 Formularis">
++      <created>1603381518207</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1603381518207</updated>
++    </task>
++    <task id="LOCAL-00006" summary="corregir error line 28: s'havia esborrat el php.">
++      <created>1603381556072</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1603381556072</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -144,7 +155,8 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Inicialització de directoris UF1" />
+     <MESSAGE value="Uniciar UF1 Formularis" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Uniciar UF1 Formularis" />
++    <MESSAGE value="corregir error line 28: s'havia esborrat el php." />
++    <option name="LAST_COMMIT_MESSAGE" value="corregir error line 28: s'havia esborrat el php." />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="963" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603372245129">
+@@ -155,9 +167,9 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="551" y="119" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603381355180" />
+-    <state x="1047" y="179" key="Vcs.Push.Dialog.v2" timestamp="1603381089567">
++    <state x="1047" y="179" key="Vcs.Push.Dialog.v2" timestamp="1603381558562">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="1047" y="179" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603381089567" />
++    <state x="1047" y="179" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603381558562" />
+   </component>
+ </project>
+\ No newline at end of file

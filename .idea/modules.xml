@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DAW.M7.iml" filepath="$PROJECT_DIR$/.idea/DAW.M7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAW.M7.Privat/.idea/DAW.M7.Privat.iml" filepath="$PROJECT_DIR$/../DAW.M7.Privat/.idea/DAW.M7.Privat.iml" />
     </modules>
   </component>
 </project>
