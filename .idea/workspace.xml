@@ -26,8 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="Inicialització de directoris UF1">
+      <change afterPath="$PROJECT_DIR$/../DAW.M7.Privat/UF1/T1_Practica_dades_persona/dades.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UF1/T1_PHP/T1_S3_Funcions_Internes.md" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T1_PHP/T1_S3_Funcions_Internes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,34 +37,51 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1jEb7is3bbhirGejtt6wcJkvbdb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.PHP" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\super\PhpstormProjects\DAW.M7.Privat\UF1\T1_PHP" />
       <recent name="C:\Users\super\PhpstormProjects\DAW.M7\UF1" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.T1_S3_exer_comprovar_variables.php">
+  <component name="RunManager" selected="PHP Script.T1_S3_exer_comprovar_variables.php (1)">
     <configuration name="formulari_un_arxiu.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63344/DAW.M7/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="T1_S3_exer_comprovar_variables.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../DAW.M7.Privat/UF1/T1_PHP/T1_S3_exer_comprovar_variables.php">
+    <configuration name="T1_S3_exer_comprovar_variables.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../DAW.M7.Privat/UF1/T1_PHP/T1_S3_exer_comprovar_variables.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="T1_S3_exer_comprovar_variables.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../DAW.M7.Privat/T1_S3_exer_comprovar_variables.php">
       <method v="2" />
     </configuration>
     <configuration name="T1_S3_funcions_sobre_variables.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/UF1/T1_PHP/T1_S3_funcions_sobre_variables.php">
@@ -72,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.T1_S3_exer_comprovar_variables.php (1)" />
         <item itemvalue="PHP Script.T1_S3_exer_comprovar_variables.php" />
         <item itemvalue="PHP Script.T1_S3_funcions_sobre_variables.php" />
         <item itemvalue="JavaScript Debug.formulari_un_arxiu.php" />
@@ -89,6 +107,8 @@
       <workItem from="1603372035748" duration="853000" />
       <workItem from="1603372918197" duration="1149000" />
       <workItem from="1603380838418" duration="515000" />
+      <workItem from="1603550053449" duration="166000" />
+      <workItem from="1603982684352" duration="900000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialització de directoris UF1">
       <created>1603372188733</created>
@@ -125,14 +145,7 @@
       <option name="project" value="LOCAL" />
       <updated>1603464135730</updated>
     </task>
-    <task id="LOCAL-00006" summary="funcions sobre variables">
-      <created>1603465393592</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1603465393592</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,57 +185,63 @@
     <option name="LAST_COMMIT_MESSAGE" value="funcions sobre variables" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="685" y="256" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603463096083">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="514" y="227" width="819" height="612" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603465941297">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="685" y="256" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603463096083" />
+    <state x="514" y="227" width="819" height="612" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.830@0.23.1440.830" timestamp="1603465941297" />
     <state x="963" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603372245129">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="963" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603372245129" />
-    <state width="1486" height="220" key="GridCell.Tab.0.bottom" timestamp="1603465301608">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1300" height="171" key="GridCell.Tab.0.bottom" timestamp="1603543393850">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1486" height="272" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1603464280935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1486" height="272" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1603464280935" />
-    <state width="1486" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603465301608" />
-    <state width="1486" height="220" key="GridCell.Tab.0.center" timestamp="1603465301608">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1486" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603465127488" />
+    <state width="1300" height="171" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1603543393850" />
+    <state width="1300" height="171" key="GridCell.Tab.0.center" timestamp="1603543393849">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1486" height="272" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1603464280934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1486" height="272" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1603464280934" />
-    <state width="1486" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603465301608" />
-    <state width="1486" height="220" key="GridCell.Tab.0.left" timestamp="1603465301607">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1486" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603465127488" />
+    <state width="1300" height="171" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1603543393849" />
+    <state width="1300" height="171" key="GridCell.Tab.0.left" timestamp="1603543393849">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1486" height="272" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1603464280934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1486" height="272" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1603464280934" />
-    <state width="1486" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603465301607" />
-    <state width="1486" height="220" key="GridCell.Tab.0.right" timestamp="1603465301608">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1486" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603465127487" />
+    <state width="1300" height="171" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1603543393849" />
+    <state width="1300" height="171" key="GridCell.Tab.0.right" timestamp="1603543393849">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1486" height="272" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1603464280934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1486" height="272" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1603464280934" />
-    <state width="1486" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603465301608" />
+    <state width="1486" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603465127488" />
+    <state width="1300" height="171" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1603543393849" />
     <state x="982" y="442" key="NewPhpFileDialog" timestamp="1603463024817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="982" y="442" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603463024817" />
-    <state x="565" y="206" key="SettingsEditor" timestamp="1603464857108">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="424" y="124" key="SettingsEditor" timestamp="1603550217143">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="565" y="206" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603464857108" />
-    <state x="1047" y="179" key="Vcs.Push.Dialog.v2" timestamp="1603465395375">
+    <state x="424" y="124" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1603550217143" />
+    <state x="1047" y="179" key="Vcs.Push.Dialog.v2" timestamp="1603464137567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1047" y="179" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603465395375" />
+    <state x="1047" y="179" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603464137567" />
   </component>
 </project>
