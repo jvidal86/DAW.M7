@@ -25,10 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="Inicialització de directoris UF1">
-      <change afterPath="$PROJECT_DIR$/../DAW.M7.Privat/UF1/T1_Practica_dades_persona/dades.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="Inicialització de directoris UF1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +63,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP" />
       <recent name="C:\Users\super\PhpstormProjects\DAW.M7\UF1" />
     </key>
   </component>
@@ -108,7 +106,7 @@
       <workItem from="1603372918197" duration="1149000" />
       <workItem from="1603380838418" duration="515000" />
       <workItem from="1603550053449" duration="166000" />
-      <workItem from="1603982684352" duration="900000" />
+      <workItem from="1603982684352" duration="1270000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialització de directoris UF1">
       <created>1603372188733</created>
@@ -145,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603464135730</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="FORMULARIS ONLINE">
+      <created>1603983666939</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603983666939</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +187,8 @@
     <MESSAGE value="Inicialització de directoris UF1" />
     <MESSAGE value="Uniciar UF1 Formularis" />
     <MESSAGE value="funcions sobre variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="funcions sobre variables" />
+    <MESSAGE value="FORMULARIS ONLINE" />
+    <option name="LAST_COMMIT_MESSAGE" value="FORMULARIS ONLINE" />
   </component>
   <component name="WindowStateProjectService">
     <state x="514" y="227" width="819" height="612" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603465941297">
@@ -239,9 +245,10 @@
     </state>
     <state x="565" y="206" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603464857108" />
     <state x="424" y="124" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1603550217143" />
-    <state x="1047" y="179" key="Vcs.Push.Dialog.v2" timestamp="1603464137567">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="224" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603983668835">
+      <screen x="0" y="23" width="1024" height="708" />
     </state>
     <state x="1047" y="179" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603464137567" />
+    <state x="224" y="145" key="Vcs.Push.Dialog.v2/0.23.1024.708@0.23.1024.708" timestamp="1603983668835" />
   </component>
 </project>
