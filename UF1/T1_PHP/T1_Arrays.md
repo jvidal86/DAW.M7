@@ -4,7 +4,7 @@ Els arryas en php son tractats com un tipus de dades, i a més, son arrays de ti
 
 ## Arrays Indexats
 
-```php {.line-numbers}
+```php
 // Dues maneres de declarar arrays indexats
 
 $fruites = array('poma','maduixa','pera','prèssec','taronja','figa');
@@ -80,17 +80,27 @@ La fruita pera es troba a l'índex 2
 
 
 ### Treballar amb les claus o els valors
+
  ```php
 //Keys
 $mesos = ['gener', 'febrer', 'març', 'abril', 'maig', 'juny','juliol','agost','septembre','octubre','novembre','decembre'];
 //values
 $dies = [31,28,31,30,31,30,31,31,30,31,30,31];
 
+//Construïr un array a partir de claus i valors
 $calendari_mesos = array_combine($mesos, $dies);
 print_r($calendari_mesos);
 
-array_keys($calendari_mesos);
-array_values($calendari_mesos);
+//Obtenir les claus d'un array
+print_r(array_keys($calendari_mesos));
+
+//Obtenir les claus (els mesos) per als valors = '30'
+print_r(array_keys($calendari_mesos, '30'));
+
+//Obtenir tots els valors
+print_r(array_values($calendari_mesos));
+
+
 $res = array_key_exists('agost', $calendari_mesos);
 var_dump($res);
 $res = array_key_exists('january', $calendari_mesos);

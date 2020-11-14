@@ -29,22 +29,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="Inicialització de directoris UF1">
-      <change beforePath="$PROJECT_DIR$/.idea/DAW.M7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DAW.M7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020,_17_04_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020,_17_11_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020_16_08_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020_16_08__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020__17_04__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020__17_11__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UF1/T1_PHP/T1_Arrays.md" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T1_PHP/T1_Arrays.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/bienvenido.html" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/bienvenido.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/error.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/formulari_login.html" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/login_falso.php" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/login_falso.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +72,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CLASSE/FormularisPHP" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -171,7 +157,7 @@
       <workItem from="1603982684352" duration="4794000" />
       <workItem from="1604598190585" duration="5997000" />
       <workItem from="1604934587695" duration="221000" />
-      <workItem from="1605189631566" duration="5311000" />
+      <workItem from="1605189631566" duration="6290000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialització de directoris UF1">
       <created>1603372188733</created>
@@ -222,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603984031956</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Inicialització de directoris UF1">
+      <created>1605368360662</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605368360662</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,11 +249,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Inicialització de directoris UF1" />
     <MESSAGE value="Uniciar UF1 Formularis" />
     <MESSAGE value="funcions sobre variables" />
     <MESSAGE value="FORMULARIS ONLINE" />
-    <option name="LAST_COMMIT_MESSAGE" value="FORMULARIS ONLINE" />
+    <MESSAGE value="Inicialització de directoris UF1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicialització de directoris UF1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="389" y="79" key="#Deployment" timestamp="1605293895612">
@@ -337,6 +330,10 @@
     <state width="1300" height="171" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1603543393849" />
     <state width="1300" height="163" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1604596034043" />
     <state width="1300" height="163" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1604596985457" />
+    <state x="105" y="97" key="MergeDialog" timestamp="1605368265088">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="105" y="97" key="MergeDialog/0.23.1440.833/1440.-525.1920.1057@0.23.1440.833" timestamp="1605368265088" />
     <state x="737" y="377" key="NewPhpFileDialog" timestamp="1604678929952">
       <screen x="0" y="23" width="1440" height="833" />
     </state>
@@ -344,22 +341,24 @@
     <state x="737" y="377" key="NewPhpFileDialog/0.23.1440.833/-1920.-777.1920.1057@0.23.1440.833" timestamp="1604678929952" />
     <state x="737" y="377" key="NewPhpFileDialog/0.23.1440.833@0.23.1440.833" timestamp="1604595430301" />
     <state x="737" y="377" key="NewPhpFileDialog/0.23.1440.834@0.23.1440.834" timestamp="1604596812628" />
-    <state x="424" y="125" key="SettingsEditor" timestamp="1605291795614">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state x="424" y="125" key="SettingsEditor" timestamp="1605371926761">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state x="565" y="206" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603464857108" />
     <state x="424" y="124" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1603550217143" />
     <state x="424" y="125" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1605291795614" />
+    <state x="424" y="125" key="SettingsEditor/0.23.1440.833/1440.-525.1920.1057@0.23.1440.833" timestamp="1605371926761" />
     <state x="424" y="125" key="SettingsEditor/0.23.1440.833@0.23.1440.833" timestamp="1604597804267" />
-    <state x="224" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603984033556">
-      <screen x="0" y="23" width="1024" height="708" />
+    <state x="315" y="167" key="Vcs.Push.Dialog.v2" timestamp="1605368366764">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state x="1047" y="179" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603464137567" />
     <state x="224" y="145" key="Vcs.Push.Dialog.v2/0.23.1024.708@0.23.1024.708" timestamp="1603984033556" />
-    <state x="480" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605367037752">
+    <state x="315" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.833/1440.-525.1920.1057@0.23.1440.833" timestamp="1605368366764" />
+    <state x="480" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605371687224">
       <screen x="0" y="23" width="1440" height="833" />
     </state>
-    <state x="480" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.833/1440.-525.1920.1057@0.23.1440.833" timestamp="1605367037752" />
+    <state x="480" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.833/1440.-525.1920.1057@0.23.1440.833" timestamp="1605371687224" />
     <state x="580" y="190" width="780" height="304" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog" timestamp="1605293898472">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
