@@ -26,4 +26,30 @@ prèssec
 
 ## Arrays associatius
 
+La parella clau valor s'indica amb el símbol `=>`. La clau es una cadena de tex. Mentres que el valor pot ser qualsevols tipus suportat per PHP i no té per què ser homogèni (tots els valors del mateix tipus).
+
+```php
+// Inicialitzar un array associatiu
+$saldo = ['jaume' => 100, 'marta'=> 53, 'laia' => -10];
+
+$nom = 'marta';
+echo "El saldo de $marta es: ".$saldo['marta'];
+```
+El resultat és:
+
+```txt
+$saldo = ['jaume' => 100, 'marta'=> 53, 'laia' => -10];
+
+foreach ( $nom in $saldo ){
+  echo $nom . 'té un saldo de: ' . 
+````
+Per a processar tot l'array es for fer amb un bucle `foreach``
+
+```php
+
+```
 ## Funcions sobre arrays
+
+# Links Adicionals
+
+* [Working with PHP arrays the proper way](https://code.tutsplus.com/tutorials/working-with-php-arrays-in-the-right-way--cms-28606)
