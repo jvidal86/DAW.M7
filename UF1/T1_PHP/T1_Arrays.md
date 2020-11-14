@@ -153,4 +153,25 @@ Array
 )
 ```
 
+## Ordenació
+
+PHP ofereix multiple maneres d'ordenar els arrays (associatius). Per defect la ordenació és ascendent.
+
+* **a**, ordena conservant les claus
+* **k**, ordena per claus
+* **r**, ordenació inversa/descendent
+* **u**, ordena amb una funció d'usuari
+
+| |a|k|r|u|
+-----------
+a|asort()| | arsort() | uasort()|
+-
+k| |ksort()|krsort()| |
+-
+r|arsort()|krsort()|rsort()|  |
+-
+u| uasort()| | |usort()|
+-
+
+
 ## Array Multi-dimensionals
