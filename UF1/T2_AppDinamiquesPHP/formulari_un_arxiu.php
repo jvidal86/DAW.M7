@@ -5,7 +5,7 @@
 <?php
     if($_SERVER['REQUEST_METHOD'] == 'POST'){
         if($_POST['usuari'] == 'admin' and $_POST['clau'] == '1234'){
-            header("Location: principal.php");
+            header("Location: bienvenido.php");
         } else {
             $err = true;
         }

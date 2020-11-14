@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="localhost" id="b5fe264a-af2f-4c3e-9517-576720c63153" name="mamp" port="8888" />
+    </servers>
+  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
 </project>

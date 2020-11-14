@@ -5,6 +5,8 @@
     <title>Bienvenido</title>
 </head>
 <body>
-<h1>Bienvenido</h1>
+<h1>Bienvenido </h1>
+<?php echo "Bienvenido ".$_GET["nom"] ?>
+
 </body>
 </html>

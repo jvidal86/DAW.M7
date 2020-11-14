@@ -5,5 +5,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="DAW.M7.Privat" />
+    <orderEntry type="module" module-name="CLASSE" />
   </component>
 </module>

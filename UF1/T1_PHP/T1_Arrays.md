@@ -25,7 +25,6 @@ prèssec
 ```
 
 ## Arrays associatius
-
 La parella clau valor s'indica amb el símbol `=>`. La clau es una cadena de tex. Mentres que el valor pot ser qualsevols tipus suportat per PHP i no té per què ser homogèni (tots els valors del mateix tipus).
 
 ```php
@@ -50,6 +49,9 @@ Per a processar tot l'array es for fer amb un bucle `foreach``
 ```
 ## Funcions sobre arrays
 
-# Links Adicionals
-
-* [Working with PHP arrays the proper way](https://code.tutsplus.com/tutorials/working-with-php-arrays-in-the-right-way--cms-28606)
+ ### Treballar amb les claus o els valors
+ ```php
+array_keys();
+array_values();
+array_key_exists();
+```

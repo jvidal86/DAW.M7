@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -25,7 +28,24 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="Inicialització de directoris UF1" />
+    <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="Inicialització de directoris UF1">
+      <change beforePath="$PROJECT_DIR$/.idea/DAW.M7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DAW.M7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020,_17_04_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020,_17_11_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020_16_08_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020_16_08__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020__17_04__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020__17_11__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF1/T1_PHP/T1_Arrays.md" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T1_PHP/T1_Arrays.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/bienvenido.html" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/bienvenido.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/formulari_login.html" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/login_falso.php" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis/login_falso.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +64,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="ceab0bbc-5f7d-4cb9-9e00-fd30a4daf329" name="localPath" port="8888" use_path_mappings="true" />
+      <server host="localhost" id="b5fe264a-af2f-4c3e-9517-576720c63153" name="mamp" port="8888" />
+      <server host="jvidalinformatic.byethost18.com" id="b7481f75-9cde-43a1-bb77-46c7a28f6b5f" name="byetHost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectId" id="1jEb7is3bbhirGejtt6wcJkvbdb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,17 +85,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CLASSE/FormularisPHP" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../CLASSE/FormularisPHP" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP" />
       <recent name="C:\Users\super\PhpstormProjects\DAW.M7\UF1" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.T1_S3_exer_comprovar_variables.php (1)">
-    <configuration name="formulari_un_arxiu.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63344/DAW.M7/UF1/T2_AppDinamiquesPHP/formulari_un_arxiu.php" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="PHP Web Page.remote">
+    <configuration name="pas_parametres.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DAW.M7/classe01_pas_params_php/pas_parametres.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="T1_S3_exer_comprovar_variables.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../DAW.M7.Privat/UF1/T1_PHP/T1_S3_exer_comprovar_variables.php">
@@ -82,15 +113,46 @@
     <configuration name="T1_S3_exer_comprovar_variables.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../DAW.M7.Privat/T1_S3_exer_comprovar_variables.php">
       <method v="2" />
     </configuration>
-    <configuration name="T1_S3_funcions_sobre_variables.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/UF1/T1_PHP/T1_S3_funcions_sobre_variables.php">
+    <configuration name="comptador_visites.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../CLASSE/Cookies/comptador_visites.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
       <method v="2" />
     </configuration>
+    <configuration name="sessio_us_basic.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../CLASSE/Sessions/sessio_us_basic.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="localWeb" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" singleton="false" server_name="localPath">
+      <method v="2" />
+    </configuration>
+    <configuration name="remote" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="byetHost" start_url="/Formularis">
+      <method v="2">
+        <option name="FtpUpload" enabled="true">
+          <server_id>8f5be8aa-8871-4a9f-9714-95dacef7b0b9</server_id>
+          <server_name>ftpupload.net</server_name>
+          <group_name />
+          <path>$PROJECT_DIR$/UF1/T2_AppDinamiquesPHP/Formularis</path>
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.pas_parametres.php" />
+      <item itemvalue="PHP Script.T1_S3_exer_comprovar_variables.php (1)" />
+      <item itemvalue="PHP Script.T1_S3_exer_comprovar_variables.php" />
+      <item itemvalue="PHP Script.comptador_visites.php" />
+      <item itemvalue="PHP Script.sessio_us_basic.php" />
+      <item itemvalue="PHP Web Page.localWeb" />
+      <item itemvalue="PHP Web Page.remote" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.pas_parametres.php" />
+        <item itemvalue="PHP Script.sessio_us_basic.php" />
+        <item itemvalue="PHP Script.comptador_visites.php" />
         <item itemvalue="PHP Script.T1_S3_exer_comprovar_variables.php (1)" />
         <item itemvalue="PHP Script.T1_S3_exer_comprovar_variables.php" />
-        <item itemvalue="PHP Script.T1_S3_funcions_sobre_variables.php" />
-        <item itemvalue="JavaScript Debug.formulari_un_arxiu.php" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +168,10 @@
       <workItem from="1603372918197" duration="1149000" />
       <workItem from="1603380838418" duration="515000" />
       <workItem from="1603550053449" duration="166000" />
-      <workItem from="1603982684352" duration="1270000" />
+      <workItem from="1603982684352" duration="4794000" />
+      <workItem from="1604598190585" duration="5997000" />
+      <workItem from="1604934587695" duration="221000" />
+      <workItem from="1605189631566" duration="5311000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialització de directoris UF1">
       <created>1603372188733</created>
@@ -150,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603983666939</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="FORMULARIS ONLINE">
+      <created>1603984031956</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603984031956</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,17 +263,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="FORMULARIS ONLINE" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="514" y="227" width="819" height="612" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603465941297">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state x="389" y="79" key="#Deployment" timestamp="1605293895612">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="389" y="79" key="#Deployment/0.23.1440.831@0.23.1440.831" timestamp="1605293895612" />
+    <state x="592" y="156" key="#PHP" timestamp="1604595798288">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="592" y="156" key="#PHP/0.23.1440.833@0.23.1440.833" timestamp="1604595798288" />
+    <state x="665" y="371" key="#Server" timestamp="1604596005225">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="665" y="371" key="#Server/0.23.1440.834@0.23.1440.834" timestamp="1604596005225" />
+    <state x="512" y="178" key="#Servers" timestamp="1605293129030">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="512" y="178" key="#Servers/0.23.1440.831@0.23.1440.831" timestamp="1605293129030" />
+    <state x="512" y="180" key="#Servers/0.23.1440.834@0.23.1440.834" timestamp="1604595984637" />
+    <state x="369" y="80" width="819" height="773" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605294026056">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="685" y="256" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603463096083" />
     <state x="514" y="227" width="819" height="612" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.830@0.23.1440.830" timestamp="1603465941297" />
+    <state x="369" y="80" width="819" height="773" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.831@0.23.1440.831" timestamp="1605294026056" />
+    <state x="514" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833/-1920.-777.1920.1057@0.23.1440.833" timestamp="1604679061648" />
+    <state x="514" y="203" width="819" height="653" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833@0.23.1440.833" timestamp="1604596032204" />
+    <state x="514" y="155" width="819" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.834@0.23.1440.834" timestamp="1604596007684" />
     <state x="963" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603372245129">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="963" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603372245129" />
-    <state width="1300" height="171" key="GridCell.Tab.0.bottom" timestamp="1603543393850">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="1300" height="163" key="GridCell.Tab.0.bottom" timestamp="1604596985458">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state width="1486" height="272" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1603464280935">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -209,8 +302,10 @@
     <state width="1486" height="272" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1603464280935" />
     <state width="1486" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603465127488" />
     <state width="1300" height="171" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1603543393850" />
-    <state width="1300" height="171" key="GridCell.Tab.0.center" timestamp="1603543393849">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="1300" height="163" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1604596034044" />
+    <state width="1300" height="163" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1604596985458" />
+    <state width="1300" height="163" key="GridCell.Tab.0.center" timestamp="1604596985457">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state width="1486" height="272" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1603464280934">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -218,8 +313,10 @@
     <state width="1486" height="272" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1603464280934" />
     <state width="1486" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603465127488" />
     <state width="1300" height="171" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1603543393849" />
-    <state width="1300" height="171" key="GridCell.Tab.0.left" timestamp="1603543393849">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="1300" height="163" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1604596034043" />
+    <state width="1300" height="163" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1604596985457" />
+    <state width="1300" height="163" key="GridCell.Tab.0.left" timestamp="1604596985456">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state width="1486" height="272" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1603464280934">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -227,8 +324,10 @@
     <state width="1486" height="272" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1603464280934" />
     <state width="1486" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603465127487" />
     <state width="1300" height="171" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1603543393849" />
-    <state width="1300" height="171" key="GridCell.Tab.0.right" timestamp="1603543393849">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="1300" height="163" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1604596034042" />
+    <state width="1300" height="163" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1604596985456" />
+    <state width="1300" height="163" key="GridCell.Tab.0.right" timestamp="1604596985457">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state width="1486" height="272" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1603464280934">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -236,19 +335,42 @@
     <state width="1486" height="272" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1603464280934" />
     <state width="1486" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603465127488" />
     <state width="1300" height="171" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1603543393849" />
-    <state x="982" y="442" key="NewPhpFileDialog" timestamp="1603463024817">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1300" height="163" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1604596034043" />
+    <state width="1300" height="163" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1604596985457" />
+    <state x="737" y="377" key="NewPhpFileDialog" timestamp="1604678929952">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state x="982" y="442" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603463024817" />
-    <state x="424" y="124" key="SettingsEditor" timestamp="1603550217143">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="737" y="377" key="NewPhpFileDialog/0.23.1440.833/-1920.-777.1920.1057@0.23.1440.833" timestamp="1604678929952" />
+    <state x="737" y="377" key="NewPhpFileDialog/0.23.1440.833@0.23.1440.833" timestamp="1604595430301" />
+    <state x="737" y="377" key="NewPhpFileDialog/0.23.1440.834@0.23.1440.834" timestamp="1604596812628" />
+    <state x="424" y="125" key="SettingsEditor" timestamp="1605291795614">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="565" y="206" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603464857108" />
     <state x="424" y="124" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1603550217143" />
-    <state x="224" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603983668835">
+    <state x="424" y="125" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1605291795614" />
+    <state x="424" y="125" key="SettingsEditor/0.23.1440.833@0.23.1440.833" timestamp="1604597804267" />
+    <state x="224" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603984033556">
       <screen x="0" y="23" width="1024" height="708" />
     </state>
     <state x="1047" y="179" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603464137567" />
-    <state x="224" y="145" key="Vcs.Push.Dialog.v2/0.23.1024.708@0.23.1024.708" timestamp="1603983668835" />
+    <state x="224" y="145" key="Vcs.Push.Dialog.v2/0.23.1024.708@0.23.1024.708" timestamp="1603984033556" />
+    <state x="480" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605367037752">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="480" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.833/1440.-525.1920.1057@0.23.1440.833" timestamp="1605367037752" />
+    <state x="580" y="190" width="780" height="304" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog" timestamp="1605293898472">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="580" y="190" width="780" height="304" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog/0.23.1440.831@0.23.1440.831" timestamp="1605293898472" />
+    <state x="680" y="151" key="ftp.server.browser" timestamp="1605293837585">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="680" y="151" key="ftp.server.browser/0.23.1440.831@0.23.1440.831" timestamp="1605293837585" />
+    <state x="375" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1604679012092">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="375" y="173" width="670" height="676" key="search.everywhere.popup/0.23.1440.833/-1920.-777.1920.1057@0.23.1440.833" timestamp="1604679012092" />
   </component>
 </project>
