@@ -28,9 +28,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="Inicialització de directoris UF1">
+    <list default="true" id="f97cab90-fcb4-4c4c-b7bf-b83c5d0db905" name="Default Changelist" comment="modificació arrays_keys per cercar per valor">
+      <change afterPath="$PROJECT_DIR$/UF1/T1_PHP/T1_Arrays_Advanced.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UF1/T1_PHP/T1_Arrays.md" beforeDir="false" afterPath="$PROJECT_DIR$/UF1/T1_PHP/T1_Arrays.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -157,7 +160,7 @@
       <workItem from="1603982684352" duration="4794000" />
       <workItem from="1604598190585" duration="5997000" />
       <workItem from="1604934587695" duration="221000" />
-      <workItem from="1605189631566" duration="6290000" />
+      <workItem from="1605189631566" duration="7816000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialització de directoris UF1">
       <created>1603372188733</created>
@@ -215,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605368360662</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="modificació arrays_keys per cercar per valor">
+      <created>1605372495025</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605372495025</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +263,8 @@
     <MESSAGE value="funcions sobre variables" />
     <MESSAGE value="FORMULARIS ONLINE" />
     <MESSAGE value="Inicialització de directoris UF1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicialització de directoris UF1" />
+    <MESSAGE value="modificació arrays_keys per cercar per valor" />
+    <option name="LAST_COMMIT_MESSAGE" value="modificació arrays_keys per cercar per valor" />
   </component>
   <component name="WindowStateProjectService">
     <state x="389" y="79" key="#Deployment" timestamp="1605293895612">
@@ -349,16 +360,17 @@
     <state x="424" y="125" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1605291795614" />
     <state x="424" y="125" key="SettingsEditor/0.23.1440.833/1440.-525.1920.1057@0.23.1440.833" timestamp="1605371926761" />
     <state x="424" y="125" key="SettingsEditor/0.23.1440.833@0.23.1440.833" timestamp="1604597804267" />
-    <state x="315" y="167" key="Vcs.Push.Dialog.v2" timestamp="1605368366764">
+    <state x="315" y="167" key="Vcs.Push.Dialog.v2" timestamp="1605372503856">
       <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state x="1047" y="179" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603464137567" />
     <state x="224" y="145" key="Vcs.Push.Dialog.v2/0.23.1024.708@0.23.1024.708" timestamp="1603984033556" />
-    <state x="315" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.833/1440.-525.1920.1057@0.23.1440.833" timestamp="1605368366764" />
-    <state x="480" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605371687224">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state x="315" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.833/1440.-525.1920.1057@0.23.1440.833" timestamp="1605372503856" />
+    <state x="480" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605373878984">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state x="480" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.833/1440.-525.1920.1057@0.23.1440.833" timestamp="1605371687224" />
+    <state x="480" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.834/1440.-525.1920.1057@0.23.1440.834" timestamp="1605373878984" />
     <state x="580" y="190" width="780" height="304" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog" timestamp="1605293898472">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
