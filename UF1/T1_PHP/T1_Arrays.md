@@ -37,21 +37,27 @@ echo "El saldo de $marta es: ".$saldo['marta'];
 El resultat és:
 
 ```txt
-$saldo = ['jaume' => 100, 'marta'=> 53, 'laia' => -10];
+$saldos = ['jaume' => 100, 'marta'=> 53, 'laia' => -10];
+```
 
-foreach ( $nom in $saldo ){
-  echo $nom . 'té un saldo de: ' . 
-````
+
 Per a processar tot l'array es for fer amb un bucle `foreach``
 
 ```php
+foreach( $saldos as $valor )
+  echo "El valor es $valor\n";
 
+foreach ( $saldo as $nom => $saldo) {
+  echo $nom . 'té un saldo de: ' . $saldo . "€\n";
+}
 ```
 ## Funcions sobre arrays
 
  ### Treballar amb les claus o els valors
  ```php
+array_combine();
 array_keys();
 array_values();
 array_key_exists();
+array_flip();
 ```
