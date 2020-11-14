@@ -38,6 +38,23 @@ Les variables poden ser opcionalment inicialitzades en el moment de la declaraci
   $resultat = true
 ?>
 ```
+
+## Constants
+```php
+const MAX_INTENTS = 3;
+```
+
+## Estils de nomenclatura
+
+És important que el codi sigui lelgible no només per al propi programador, si no per a gent que el modificarà més tard. Per tant, cal utilitzar un estil de variable i nomenclatura que en faciliti la lectura i comprensió.
+```php
+$totminuscules //difícil de llegir. adequat per paraules individuals
+
+$una_concepte_mes_complex // (snake)pot ser molt intuitiva. procurar no ser excessiva
+
+$siExisteixFer //minuscula-Majuscula (camel) motl popular
+```
+
 ## Mostrar Dades
 
 Hi ha dues maneres comuns de mostrar el resultat:
